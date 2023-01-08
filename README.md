@@ -1,9 +1,9 @@
 # Replace
 Make sure you have nodejs installed on your computer </br>
-Check by opening terminal and type
+Check by opening terminal and type :
 >node -v
 
-Move to folder and type
+To use this tool, move to folder and type:
 
 >node test.js
 
