@@ -7,7 +7,7 @@ Move to folder and type
 
 >node test.js
 
-make sure input.txt, data.txt test.js files are in the same folder
+Make sure input.txt, data.txt test.js files are in the same folder
 
 
 Replace multiple elements in text with nodejs
