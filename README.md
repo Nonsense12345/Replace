@@ -6,6 +6,7 @@ Check by opening terminal and type
 Move to folder and type
 
 >node test.js
+
 make sure input.txt, data.txt test.js files are in the same folder
 
 
